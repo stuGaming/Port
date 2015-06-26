@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 8daa737b58f808f43a8137093b481643
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: branch1:pSphere1
+    100002: branch2:pSphere1
+    100004: branch3:pSphere1
+    100006: branch4:pSphere1
+    100008: branch:group
+    100010: branch:group1
+    100012: branch:group10
+    100014: branch:group11
+    100016: branch:group12
+    100018: branch:group13
+    100020: branch:group14
+    100022: branch:group2
+    100024: branch:group3
+    100026: branch:group4
+    100028: branch:group5
+    100030: branch:group6
+    100032: branch:group7
+    100034: branch:group8
+    100036: branch:group9
+    100038: branch:pasted__group
+    100040: branch:pasted__group 1
+    100042: branch:pasted__group 2
+    100044: branch:pasted__group 3
+    100046: branch:pasted__group 4
+    100048: branch:pasted__group 5
+    100050: branch:pasted__group 6
+    100052: branch:pasted__group7
+    100054: branch:pasted__group7 1
+    100056: branch:pasted__group7 2
+    100058: branch:pasted__group7 3
+    100060: branch:pasted__group7 4
+    100062: branch:pasted__group7 5
+    100064: branch:pasted__group7 6
+    100066: branch:pasted__pasted__group
+    100068: branch:pasted__pasted__group 1
+    100070: branch:pasted__pasted__group 2
+    100072: branch:pasted__pasted__group 3
+    100074: branch:pasted__pasted__group 4
+    100076: branch:pasted__pasted__group 5
+    100078: branch:pasted__pasted__group 6
+    100080: branch:pSphere1
+    100082: group
+    100084: group1
+    100086: group2
+    100088: group3
+    100090: pCube1
+    100092: //RootNode
+    100094: trunk:group
+    100096: trunk:group1
+    100098: trunk:group2
+    100100: trunk:group3
+    100102: trunk:group4
+    100104: trunk:pasted__group
+    100106: trunk:pasted__group1
+    100108: trunk:pasted__group2
+    100110: trunk:pasted__group3
+    100112: trunk:pasted__pasted__group
+    100114: trunk:pasted__pasted__group1
+    100116: trunk:pasted__pasted__group2
+    100118: trunk:pasted__pasted__pasted__group
+    100120: trunk:pasted__pasted__pasted__group1
+    100122: trunk:pasted__pasted__pasted__pasted__group
+    100124: trunk:pasted__pasted__pasted__pasted__pasted__pPyramid1
+    100126: trunk:pasted__pasted__pasted__pasted__pPyramid1
+    100128: trunk:pasted__pasted__pasted__pPyramid1
+    100130: trunk:pasted__pasted__pPyramid1
+    100132: trunk:pasted__pPyramid1
+    100134: trunk:pPyramid1
+    400000: branch1:pSphere1
+    400002: branch2:pSphere1
+    400004: branch3:pSphere1
+    400006: branch4:pSphere1
+    400008: branch:group
+    400010: branch:group1
+    400012: branch:group10
+    400014: branch:group11
+    400016: branch:group12
+    400018: branch:group13
+    400020: branch:group14
+    400022: branch:group2
+    400024: branch:group3
+    400026: branch:group4
+    400028: branch:group5
+    400030: branch:group6
+    400032: branch:group7
+    400034: branch:group8
+    400036: branch:group9
+    400038: branch:pasted__group
+    400040: branch:pasted__group 1
+    400042: branch:pasted__group 2
+    400044: branch:pasted__group 3
+    400046: branch:pasted__group 4
+    400048: branch:pasted__group 5
+    400050: branch:pasted__group 6
+    400052: branch:pasted__group7
+    400054: branch:pasted__group7 1
+    400056: branch:pasted__group7 2
+    400058: branch:pasted__group7 3
+    400060: branch:pasted__group7 4
+    400062: branch:pasted__group7 5
+    400064: branch:pasted__group7 6
+    400066: branch:pasted__pasted__group
+    400068: branch:pasted__pasted__group 1
+    400070: branch:pasted__pasted__group 2
+    400072: branch:pasted__pasted__group 3
+    400074: branch:pasted__pasted__group 4
+    400076: branch:pasted__pasted__group 5
+    400078: branch:pasted__pasted__group 6
+    400080: branch:pSphere1
+    400082: group
+    400084: group1
+    400086: group2
+    400088: group3
+    400090: pCube1
+    400092: //RootNode
+    400094: trunk:group
+    400096: trunk:group1
+    400098: trunk:group2
+    400100: trunk:group3
+    400102: trunk:group4
+    400104: trunk:pasted__group
+    400106: trunk:pasted__group1
+    400108: trunk:pasted__group2
+    400110: trunk:pasted__group3
+    400112: trunk:pasted__pasted__group
+    400114: trunk:pasted__pasted__group1
+    400116: trunk:pasted__pasted__group2
+    400118: trunk:pasted__pasted__pasted__group
+    400120: trunk:pasted__pasted__pasted__group1
+    400122: trunk:pasted__pasted__pasted__pasted__group
+    400124: trunk:pasted__pasted__pasted__pasted__pasted__pPyramid1
+    400126: trunk:pasted__pasted__pasted__pasted__pPyramid1
+    400128: trunk:pasted__pasted__pasted__pPyramid1
+    400130: trunk:pasted__pasted__pPyramid1
+    400132: trunk:pasted__pPyramid1
+    400134: trunk:pPyramid1
+    2300000: branch1:pSphere1
+    2300002: branch2:pSphere1
+    2300004: branch3:pSphere1
+    2300006: branch4:pSphere1
+    2300008: branch:pSphere1
+    2300010: pCube1
+    2300012: trunk:pasted__pasted__pasted__pasted__pasted__pPyramid1
+    2300014: trunk:pasted__pasted__pasted__pasted__pPyramid1
+    2300016: trunk:pasted__pasted__pasted__pPyramid1
+    2300018: trunk:pasted__pasted__pPyramid1
+    2300020: trunk:pasted__pPyramid1
+    2300022: trunk:pPyramid1
+    3300000: branch1:pSphere1
+    3300002: branch2:pSphere1
+    3300004: branch3:pSphere1
+    3300006: branch4:pSphere1
+    3300008: branch:pSphere1
+    3300010: pCube1
+    3300012: trunk:pasted__pasted__pasted__pasted__pasted__pPyramid1
+    3300014: trunk:pasted__pasted__pasted__pasted__pPyramid1
+    3300016: trunk:pasted__pasted__pasted__pPyramid1
+    3300018: trunk:pasted__pasted__pPyramid1
+    3300020: trunk:pasted__pPyramid1
+    3300022: trunk:pPyramid1
+    4300000: pCube1
+    4300002: trunk:pPyramid1
+    4300004: trunk:pasted__pPyramid1
+    4300006: trunk:pasted__pasted__pPyramid1
+    4300008: trunk:pasted__pasted__pasted__pPyramid1
+    4300010: trunk:pasted__pasted__pasted__pasted__pPyramid1
+    4300012: trunk:pasted__pasted__pasted__pasted__pasted__pPyramid1
+    4300014: branch:pSphere1
+    4300016: branch1:pSphere1
+    4300018: branch2:pSphere1
+    4300020: branch3:pSphere1
+    4300022: branch4:pSphere1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
